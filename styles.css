@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: rgb(139, 6, 99);
 }
 
 .image{
@@ -16,4 +16,8 @@ body {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+}
+h1 {
+    text-align: center;
+    color: white;
 }
