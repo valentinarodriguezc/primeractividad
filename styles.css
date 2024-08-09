@@ -10,7 +10,7 @@ body {
 
 .link-button {
     text-decoration: none;
-    color: black;
+    color: rgb(238, 5, 199);
     border: 1px solid gray;
     background-color: #f2f2f2;
     padding: 5px;
@@ -19,5 +19,5 @@ body {
 }
 h1 {
     text-align: center;
-    color: white;
+    color: rgb(0, 0, 0);
 }
