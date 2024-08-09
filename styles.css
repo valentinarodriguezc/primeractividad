@@ -1,9 +1,9 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: linear-gradient(to bottom, #b41d61, #a92092, #ab58f4);
 }
 
 .image{
-    border: 5px solid rgb(251, 255, 0);
+    border: 5px solid green;
     border-radius: 10px;
     height: 400px;
 }
